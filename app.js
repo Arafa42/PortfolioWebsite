@@ -7,7 +7,7 @@
             document.querySelector(".active-btn").classList.remove("active-btn");
             this.classList.add("active-btn");
             document.querySelector(".active").classList.remove("active");
-            console.log(button.dataset.id);
+            //console.log(button.dataset.id);
             document.getElementById(button.dataset.id).classList.add("active");
         })
     });
