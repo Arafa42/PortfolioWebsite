@@ -429,6 +429,12 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .firebase {
   width: 80%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .gitlab {
+  width: 100%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .UML {
+  width: 75%;
+}
 
 
 .stat-title {
